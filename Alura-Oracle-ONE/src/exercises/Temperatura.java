@@ -1,4 +1,5 @@
-// # 5
+// # Exercício 5
+
 // Escreva um programa que converta uma temperatura em graus Celsius para Fahrenheit.
 // Utilize variáveis para representar os valores das temperaturas e imprima no
 // console o valor convertido de Celsius para Fahrenheit.
@@ -8,6 +9,8 @@
 
 // Depois de finalizar, testar e conferir que seu programa foi executado com sucesso,
 // crie uma variável inteira para exibir a temperatura em Fahrenheit sem casas decimais.
+
+package exercises;
 
 public class Temperatura {
     public static void main(String[] args) {
