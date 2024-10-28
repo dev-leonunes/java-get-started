@@ -1,5 +1,3 @@
-// Leia uma sequência de N Strings e as imprima em ordem reversa. Utilize um método.
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;

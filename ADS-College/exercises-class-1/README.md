@@ -1,18 +1,33 @@
-## Getting Started
+## Aula 1
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Essa pasta contém atividades da primeira aula da matéria de Programação Orientada a Objetos com Java, no curso de Análise e Desenvolvimento de Sistemas, na UNINTER.
 
-## Folder Structure
+### Sobre a Matéria
 
-The workspace contains two folders by default, where:
+Programação Orientada a Objetos com Java é uma disciplina que aborda os conceitos fundamentais da programação orientada a objetos utilizando a linguagem Java. Os alunos aprendem sobre classes, objetos, herança, polimorfismo, encapsulamento, entre outros conceitos essenciais.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Exercícios
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+#### Ex01
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Obtenha a entrada padrão peso (int), a altura (double) e imprima o IMC (Índice de Massa Corpórea).
 
-## Dependency Management
+#### Ex02
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Leônidas é constantemente questionado sobre quantos soldados seus 300 espartanos irão enfrentar.
+- Ajude Loônidas fazendo um pequeno jogo de adivinhação em que o jogador deve dar um palpite. Se o palpite for abaixo ou acima do valor correto, imprima mensagens adequadas informando o fato.
+
+#### Ex03
+
+- Leia uma sequência de N Strings e as imprima em ordem reversa. Utilize um método.
+
+### Estrutura de Pastas
+
+O workspace contém duas pastas por padrão, onde:
+
+- `src`: a pasta para manter os códigos-fonte
+- `lib`: a pasta para manter as dependências
+
+Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
+
+> Se você quiser personalizar a estrutura de pastas, abra `.vscode/settings.json` e atualize as configurações relacionadas lá.
