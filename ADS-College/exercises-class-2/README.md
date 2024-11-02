@@ -10,9 +10,9 @@ Programação Orientada a Objetos com Java é uma disciplina que aborda os conce
 
 #### Ex01
 
-Crie uma classe Avaliacao, com três atributos reais chamados nota1, nota2, nota3 e crie dois metódos para calcular e retornar diferentes tipos de médida.
- - Média aritmética
- - Média ponderada (peso 2, 3 e 4)
+- Crie uma classe Avaliacao, com três atributos reais chamados nota1, nota2, nota3 e crie dois metódos para calcular e retornar diferentes tipos de médida.
+    - Média aritmética
+    - Média ponderada (peso 2, 3 e 4)
 
 Arquivo: `/ex01/App.java`
 
