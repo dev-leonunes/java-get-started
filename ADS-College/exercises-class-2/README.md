@@ -1,4 +1,4 @@
-## Aula 2
+## Aula 2 - Classes e Objetos
 
 Essa pasta contém atividades da segunda aula da matéria de Programação Orientada a Objetos com Java, no curso de Análise e Desenvolvimento de Sistemas, na UNINTER.
 

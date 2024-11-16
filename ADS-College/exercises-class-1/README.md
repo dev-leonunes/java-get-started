@@ -1,4 +1,4 @@
-## Aula 1
+## Aula 1 - Linguagem Java
 
 Essa pasta contém atividades da primeira aula da matéria de Programação Orientada a Objetos com Java, no curso de Análise e Desenvolvimento de Sistemas, na UNINTER.
 

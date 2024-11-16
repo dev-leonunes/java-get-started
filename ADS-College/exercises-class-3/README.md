@@ -1,4 +1,4 @@
-## Aula 3
+## Aula 3 - Visibilidade
 
 Essa pasta contém atividades da terceira aula da matéria de Programação Orientada a Objetos com Java, no curso de Análise e Desenvolvimento de Sistemas, na UNINTER.
 
@@ -52,7 +52,7 @@ Arquivo: `/ex03/App.java`
 
 #### Ex04
 
-- ![alt text](assets/img/image.png)
+- ![Exercise 4](assets/img/image.png)
 
 Arquivo: `/ex04/App.java`
 
